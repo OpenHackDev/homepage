@@ -1,3 +1,5 @@
+"use client"
+
 import { BaseOhHeader } from '@/components/interaction/header/BaseOhHeader';
 import { ColumnLayout } from '@/components/interaction/layout/ColumnLayout';
 import Link from 'next/link';
